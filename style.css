@@ -1,0 +1,24 @@
+.redBox {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}
+.yellowBox {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+}
+.blackBox {
+  position: absolute;
+  background-color: black;
+  z-index:-1;
+  top: 400px;
+  height: 100px;
+  width: 500px;
+
+}
+.orangeBox {
+  background-color: orange;
+  height: 100px;
+  width: 100px;
+}
