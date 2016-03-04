@@ -1,4 +1,4 @@
-var app = angular.module('plunker', []);
+var app = angular.module('parallaxJs', []);
 
 app.controller('MainCtrl', function($scope) {
   $scope.name = 'World';
