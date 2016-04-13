@@ -49,11 +49,11 @@ Add the ```move``` attribute to the element.  Set it equal to the speed that you
 
 ##### x="[x-position]"
 
-The **x** attribute is the desired x-position of the element, from the top of the window, that you are adding parallax functionality to. 
+The **x** attribute is the desired x-position of the element, from the left side of the window, that you are adding parallax functionality to. 
 
 ##### y="[y-position]"
 
-The **y** attribute is the desired y-position of the element, from the left side of the window, that you are adding parallax functionality to.
+The **y** attribute is the desired y-position of the element, from the top of the window, that you are adding parallax functionality to.
 
 ##### paratype="[parallax type]"
 
